@@ -3,7 +3,6 @@
 "Fake it till you make it."
 This project is a Spotify clone built using the Flutter SDK. 
 It's a web application that mimics the user interface of the Spotify app. 
-The project is intended to be a learning tool for those new to app development using Flutter.
 
 ## Features
 - Browse and play songs
