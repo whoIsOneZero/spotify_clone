@@ -1,4 +1,5 @@
 # Flutter Spotify Clone
+![App Demo](Spotify_clone_demo.gif)
 
 This project is a Spotify clone built using the Flutter SDK. 
 It's a web application that mimics the user interface of the Spotify app. 
