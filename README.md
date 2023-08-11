@@ -1,6 +1,5 @@
-# Spotify Clone
+# Flutter Spotify Clone
 
-"Fake it till you make it."
 This project is a Spotify clone built using the Flutter SDK. 
 It's a web application that mimics the user interface of the Spotify app. 
 
@@ -8,6 +7,7 @@ It's a web application that mimics the user interface of the Spotify app.
 - Browse and play songs
 - Create and view playlists
 - Search for songs and playlists
+- Responsive design for various screen sizes.
 
 ## Getting Started
 
@@ -22,6 +22,3 @@ flutter run -d chrome
 
 ## Note
 The backend is not implemented and dummy data is used instead.
-
-Contribute
-If you're interested in contributing to the project, feel free to create a pull request.
